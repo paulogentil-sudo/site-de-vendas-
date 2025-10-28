@@ -1,18 +1,4 @@
-loja-online/
-│
-├── index.html
-├── produtos.html
-├── carrinho.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── main.js
-│   └── carrinho.js
-│
-└── img/
-    └── (imagens dos produtos)
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
